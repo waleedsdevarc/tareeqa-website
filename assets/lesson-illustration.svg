@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a hands-on chemistry and planting lesson">
+  <rect width="400" height="220" rx="14" fill="#eef1f5"/>
+
+  <!-- flask -->
+  <g>
+    <path d="M178 40 L178 78 L152 148 Q148 158 158 158 L222 158 Q232 158 228 148 L202 78 L202 40 Z" fill="#ffffff" stroke="#1c4364" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M158 128 Q190 138 222 128 L222 148 Q222 156 214 156 L166 156 Q158 156 158 148 Z" fill="#2b5f8a"/>
+    <rect x="170" y="30" width="40" height="12" rx="3" fill="#1c4364"/>
+    <circle cx="182" cy="118" r="4" fill="#ffffff"/>
+    <circle cx="196" cy="108" r="3" fill="#ffffff"/>
+    <circle cx="190" cy="132" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- plant -->
+  <g>
+    <path d="M280 168 L280 110" stroke="#1c4364" stroke-width="4" stroke-linecap="round"/>
+    <path d="M280 128 C264 128 254 116 252 100 C268 100 280 110 280 128 Z" fill="#4a6fa5"/>
+    <path d="M280 116 C296 116 306 104 308 88 C292 88 280 98 280 116 Z" fill="#2b5f8a"/>
+    <path d="M262 172 Q280 180 298 172" stroke="#1c4364" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- small group of learners -->
+  <g>
+    <circle cx="72" cy="150" r="14" fill="#2b5f8a"/>
+    <path d="M50 184 Q72 164 94 184 Z" fill="#2b5f8a"/>
+    <circle cx="112" cy="158" r="12" fill="#4a6fa5"/>
+    <path d="M93 186 Q112 168 131 186 Z" fill="#4a6fa5"/>
+    <circle cx="38" cy="160" r="11" fill="#1c4364"/>
+    <path d="M20 186 Q38 170 56 186 Z" fill="#1c4364"/>
+  </g>
+</svg>
