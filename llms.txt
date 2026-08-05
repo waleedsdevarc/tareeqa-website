@@ -1,0 +1,17 @@
+# Tareeqa
+
+> Tareeqa is a free science tutoring program for deaf and hard-of-hearing students in Gujranwala, Pakistan, founded and led by Waleed Ahmed Syed. It teaches chemistry and planting through visual, hands-on lessons instead of lecture, in partnership with Bibi 'N' Baba School.
+
+This site is public documentation of the program: what it does, who runs it, and the tracked outcomes (attendance, lesson plans, and before/after grades) that back up its reported figures.
+
+## Pages
+
+- [Home](https://tareeqa.site/): overview of the program and a snapshot of current figures.
+- [About](https://tareeqa.site/about/): the founding story, how lessons are designed, and the tutor team.
+- [Impact](https://tareeqa.site/impact/): detailed outcome figures and excerpts from the underlying tracking records.
+- [Privacy](https://tareeqa.site/privacy/): what this site collects (nothing beyond standard hosting logs) and how to get in touch.
+
+## Notes
+
+- All figures on this site come from an internal tracker covering 111 students, 4 tutors, and 54 weekly sessions across 6 terms (June 2023 to December 2025).
+- Students are referred to only by anonymous ID, never by name, anywhere on this site.
